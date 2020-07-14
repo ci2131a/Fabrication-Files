@@ -1,2 +1,3 @@
 # Fabrication-Files
-A repository of files that can be used in digital fabrication.
+
+This repository holds a number of files that can be used in digital fabrication. 
